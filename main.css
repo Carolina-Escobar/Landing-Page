@@ -1,0 +1,25 @@
+#header {
+    display: flex;
+    background-color:rgba(232, 240, 232, 0.685);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.list {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0%;
+    text-align: end;
+}
+.nav-link {
+    color: black;
+}
+#header-img {
+    width: 120px;
+    height: 120px;
+}
+.container {
+   display: flex;
+   justify-content: space-between;
+   margin-top: 5px;
+}
